@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.menu_login{
+    max-width: 500px;
+    background-color: rgb(236, 207, 142);
+    margin-left: auto;
+    margin-right: auto;
+}
+.campoUser{
+ padding: 20px;
+ font-family: cursive;
+ width: 80%;
+}
+.campoPassword{
+    padding: 20px;
+    font-family: cursive;
+}
+hr{
+    height: 23px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
