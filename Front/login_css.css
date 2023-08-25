@@ -40,3 +40,11 @@ h1{
 .cuadro_externo{
     margin-top: 11%;
 }
+.pie_de_pagina, .pie_de_pagina_bogota{
+    font-size: 10px;
+    font-family: cursive;
+    margin: auto;
+}
+.forgot_pass{
+    font-size: 10px;
+}
