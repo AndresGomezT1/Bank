@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+.Menu{
+    background-color: black;
+}
+.Primera{
+    font-family: cursive;
+    color: antiquewhite;
+}
+.Segunda{
+    text-align: center;
+    color: antiquewhite;
+}
+.Tercera{
+    text-align: right;
+    color: antiquewhite;
+}
