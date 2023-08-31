@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(1, 26, 48);
+}
+label{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 40%;
+    color: aliceblue;
+}
+.botonRegistro{
+    margin-top: 2%;
+    margin-left: 46%;
+}
+fieldset{
+    color: aliceblue;
+    margin-top: 7%;
+    border: 2px groove;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo{
+    margin-top: 2%;
+    margin-left: 46%;
+    width: 150px;
+    height: 150px;
+}
